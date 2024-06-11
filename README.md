@@ -11,7 +11,7 @@ This project analyzes student performance data and predicts their final grades u
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/student-performance-prediction.git
+   git clone https://github.com/RohanTalaviya10/Student-Performance-Prediction
    cd student-performance-prediction
    ```
 
@@ -44,7 +44,7 @@ This project analyzes student performance data and predicts their final grades u
 
 - `1. EDA STUDENT PERFORMANCE.ipynb`: Notebook for exploratory data analysis.
 - `2. MODEL TRAINING.ipynb`: Notebook for data preprocessing, model training, and evaluation.
-- `app.py`: Flask application to deploy the trained model.
+- `application.py`: Flask application to deploy the trained model.
 - `requirements.txt`: List of dependencies required to run the project.
 - `templates/`: Directory containing HTML templates for the Flask app.
 
@@ -58,9 +58,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Acknowledgements
 
-- Dataset: [Source of the dataset]
-- [Any other acknowledgments]
-
----
-
-Please replace `[Source of the dataset]` and any other placeholders with the actual information. You can add more details to each section as needed. Let me know if you need any further customization!
+- Dataset: https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977
